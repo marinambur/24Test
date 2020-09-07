@@ -1,0 +1,9 @@
+@import url(./__pic/content__pic.css);
+@import url(./__box/content__box.css);
+@import url(./__title/content__title.css);
+@import url(./__subtitle/content__subtitle.css);
+.content {
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+}

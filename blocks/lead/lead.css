@@ -1,0 +1,10 @@
+@import url(./__title/lead__title.css);
+@import url(__span/lead__span.css);
+@import url(__fridge/lead__fridge.css);
+@import url(__logos/lead__logos.css);
+@import url(__logo/lead__logo.css);
+.lead {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
