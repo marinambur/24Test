@@ -1,10 +1,10 @@
 @import url(./__arrow/slider__arrow.css);
 @import url(./__item/slider__item.css);
 @import url(./__items/slider__items.css);
+@import url(./__box/slider__box.css);
+@import url(./__title/slider__title.css);
+@import url(./__text/slider__text.css);
 
 .slider{
-    height:400px;
-    position:relative;
-    width:800px;
-    margin:0 auto;
+
 }

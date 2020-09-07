@@ -11,6 +11,11 @@
 @import url(../blocks/content/content.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/slider/slider.css);
+@import url(../blocks/content/__pic/_right/content__pic_right.css);
+@import url(../blocks/line/_right/line_right.css);
+@import url(../blocks/line/_left/line_left.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/footer/footer.css);
 
 
 

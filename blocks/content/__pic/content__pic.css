@@ -1,5 +1,6 @@
 .content__pic {
     width: 50%;
-    order: 2;
     object-fit: contain;
+    height: 600px;
+    max-width: 600px;
 }
