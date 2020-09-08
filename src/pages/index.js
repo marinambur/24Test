@@ -1,3 +1,5 @@
+import '../pages/index.css';
+
 const page = document.querySelector('.page')//нходим класс page
 
 if (document.documentElement.clientWidth < 1100) {
