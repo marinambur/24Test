@@ -10,3 +10,11 @@
 	font-weight: 300;
 	font-style: normal;
 }
+
+@font-face {
+	font-family: 'BoschSans';
+	src: url("./BoschSans-Black.eot"),
+	url("./BoschSans-Black.ttf") format("truetype"),
+	url("./BoschSans-Black.woff") format("woff");
+	font-weight: 700;
+}

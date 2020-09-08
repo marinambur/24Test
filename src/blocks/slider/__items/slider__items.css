@@ -5,21 +5,21 @@
 .item-1 {
     z-index: 2;
     opacity: 1;
-    background:url('../../../../images/fridge.jpg') no-repeat center;
+    background:url('../../../images/fridge.jpg') no-repeat center;
     background-size: contain;
 }
 
 .item-2{
-    background:url('../../../../images/fridge3.jpg') no-repeat center;
+    background:url('../../../images/fridge3.jpg') no-repeat center;
     background-size: contain;
 }
 .item-3{
-    background:url('../../../../images/fridge4.jpg') no-repeat center;
+    background:url('../../../images/fridge4.jpg') no-repeat center;
     background-size: contain;
 }
 
 .item-4{
-    background:url('../../../../images/fridge5.jpg') no-repeat center;
+    background:url('../../../images/fridge5.jpg') no-repeat center;
     background-size: contain;
 }
 *:target ~ .item-1 {
