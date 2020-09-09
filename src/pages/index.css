@@ -28,6 +28,10 @@
 @import url(../blocks/lead/__fridge/_mobile/lead__fridge_mobile.css);
 @import url(../blocks/lead/__title/_mobile/lead__title_mobile.css);
 @import url(../blocks/header/__logo/_mobile/header__logo_mobile.css);
+@import url(../blocks/slider/__box/_medium/slider__box_medium.css);
+@import url(../blocks/slider/__box/_small/slider__box_small.css);
+@import url(../blocks/content/__container/_tablet/content__container_tablet.css);
+@import url(../blocks/lead/_mobile/lead_mobile.css);
 
 
 
