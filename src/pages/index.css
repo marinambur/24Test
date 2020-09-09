@@ -16,6 +16,18 @@
 @import url(../blocks/line/_left/line_left.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/small-pc/small-pc.css);
+@import url(../blocks/mobile/mobile.css);
+@import url(../blocks/content/__container/_mobile/content__container_mobile.css);
+@import url(../blocks/line/__left-mobile/line__left-mobile.css);
+@import url(../blocks/line/_mobile/line_mobile.css);
+@import url(../blocks/content/__box/_mobile/content__box_mobile.css);
+@import url(../blocks/title/_mobile/title_mobile.css);
+@import url(../blocks/subtitle/_mobile/subtitle_mobile.css);
+@import url(../blocks/content/__pic/_mobile/content__pic_mobile.css);
+@import url(../blocks/lead/__fridge/_mobile/lead__fridge_mobile.css);
+@import url(../blocks/lead/__title/_mobile/lead__title_mobile.css);
+@import url(../blocks/header/__logo/_mobile/header__logo_mobile.css);
 
 
 

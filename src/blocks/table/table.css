@@ -1,2 +1,6 @@
 @import url(__pic/table__pic.css);
 @import url(__title/table__title.css);
+
+.table {
+    padding-top: 50px;
+}
